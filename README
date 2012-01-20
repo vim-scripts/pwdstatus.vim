@@ -1,0 +1,8 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=3897
+
+I'm often using :cd or autochdir and can never remember where I currently am.  Why use :pwd when that information can already be on the statusline?
+
+I also glance at the filename, line number, column number, etc..  Some information I look for more often than others.  Those things should stand out but just a little.  This statusline uses color to draw your attention ever so slightly.  That is, unless it's read-only, unsaved, etc., which should *really* draw your attention!
+
+Screenshot:
+http://i1177.photobucket.com/albums/x344/seymore15074/Flymaker2.png
